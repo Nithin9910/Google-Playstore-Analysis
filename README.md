@@ -4,9 +4,9 @@
 
 Data - Over 10000 records
 
-### Data Visualization - Power BI 
+#### Data Visualization - Power BI 
 
-### EDA - MySQL
+#### EDA - MySQL
 
 ## Summary of Findings:
 
