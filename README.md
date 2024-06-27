@@ -1,14 +1,14 @@
 # Google Playstore Analysis
 
-# Data Used
+## Data Used
 
 Data - Over 10000 records
 
-# Data Visualization - Power BI 
+### Data Visualization - Power BI 
 
-# EDA - MySQL
+### EDA - MySQL
 
-# Summary of Findings:
+## Summary of Findings:
 
 * Analyzed data reveals a diverse app ecosystem with 7581 total apps categorized across 33 categories and further divided into 113 genres.
 * Family (1585 apps), Game (1020 apps), and Tools (671 apps) dominate the app distribution by category.
